@@ -17,6 +17,9 @@ $ python crackfb.py
 
 $ python crackfb.py
 
+# Script ini login menggunakan cookie facebook
+cara mendapatkan cookie:https://youtu.be/6-zN1a1aE6Q
+
 
 
 tulis/tempel semua di termux satu² jgn sama lambang dolarnya
