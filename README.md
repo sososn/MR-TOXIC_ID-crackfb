@@ -15,6 +15,8 @@ $ cd MR~TOXIC_ID-crackfb
 
 $ python crackfb.py
 
+$ python crackfb.py
+
 
 
 tulis/tempel semua di termux satu² jgn sama lambang dolarnya
